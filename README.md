@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## 정승기 👋
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdrl8336)](https://solved.ac/tmdrl8336/)
 <!--
 **SeunggiJung/SeunggiJung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
